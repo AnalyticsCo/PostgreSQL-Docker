@@ -1,6 +1,6 @@
-##Proje iki kısımdan oluşmaktadır,
-*İlk kısımda Coucbase Server ve Clusterları oluşturulmuştur
-*İkinci kısımdaysa rest api kullanılarak python üzerinden veri çekilmiştir.
+## Proje iki kısımdan oluşmaktadır,
+* İlk kısımda Coucbase Server ve Clusterları oluşturulmuştur
+* İkinci kısımdaysa rest api kullanılarak python üzerinden veri çekilmiştir.
 
 
 ## Prerequisites
